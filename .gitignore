@@ -1,0 +1,17 @@
+.repo/
+.source_date_epoch_dir
+WORKSPACE
+aosp/
+build.config
+build/
+build_cloudripper.sh
+build_mixed.sh
+common-modules/
+external/
+kernel/
+prebuilts/
+private/
+tools/
+update_symbol_list_cloudripper-aosp.sh
+update_symbol_list_cloudripper-staging.sh
+out/
